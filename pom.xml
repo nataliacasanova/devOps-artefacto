@@ -28,6 +28,7 @@
     </licenses>
 
     <properties>
+
         <!-- Encode -->
         <encoding>UTF-8</encoding>
         <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
