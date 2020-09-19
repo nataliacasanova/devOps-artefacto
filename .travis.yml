@@ -17,6 +17,7 @@ script:
   - mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=nataliacasanova -Dsonar.login=$SONAR
 
 deploy:
+  app: devops-natalia
   provider: heroku
   api_key: $HEROKU
   on:
