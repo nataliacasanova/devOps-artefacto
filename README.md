@@ -2,6 +2,8 @@
 ## Ingeniería Web: Visión General (IWVG) DevOps
 > Este proyecto es una Plantilla de apoyo docente de la asignatura.
 
+[![Build Status](https://travis-ci.org/nataliacasanova/devOps-artefacto.svg?branch=develop)](https://travis-ci.org/nataliacasanova/devOps-artefacto)
+
 ### :gear: Instalación del proyecto
 1. Clonar el repositorio en tu equipo, **mediante consola**:
 ```sh
